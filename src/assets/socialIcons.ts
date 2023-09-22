@@ -23,6 +23,18 @@ const socialIcons: SocialIcons = {
       d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3"
     ></path>
   </svg>`,
+  GScholar: `<svg
+    xmlns="http://www.w3.org/2000/svg"
+    class="icon-tabler"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    >
+    <path d="M2 7v1l11 4 9-4V7L11 4z"></path>
+    <path d="M4 11v4.267c0 1.621 4.001 3.893 9 3.734 4-.126 6.586-1.972 7-3.467.024-.089.037-.178.037-.268V11L13 14l-5-1.667v3.213l-1-.364V12l-3-1z"></path>
+    </svg>`,
   Instagram: `<svg
     xmlns="http://www.w3.org/2000/svg"
     class="icon-tabler"
@@ -57,6 +69,7 @@ const socialIcons: SocialIcons = {
       <rect x="3" y="5" width="18" height="14" rx="2"></rect>
       <polyline points="3 7 12 13 21 7"></polyline>
     </svg>`,
+
   Twitter: `<svg
       xmlns="http://www.w3.org/2000/svg"
       class="icon-tabler"

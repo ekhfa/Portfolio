@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "posts" |"projects" | "tags" | "about" | "cv" |  "search";
 }
 
 const { activeNav } = Astro.props;
@@ -60,9 +60,14 @@ const { activeNav } = Astro.props;
         <ul id="menu-items" class="display-none sm:flex">
           <li>
             <a href="/posts" class={activeNav === "posts" ? "active" : ""}>
-              Posts
+              Publications
             </a>
           </li>
+          <!-- <li>
+            <a href="/projects" class={activeNav === "projects" ? "active" : ""}>
+              Projects
+            </a>
+          </li> -->
           <li>
             <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
               Tags
@@ -72,6 +77,12 @@ const { activeNav } = Astro.props;
             <a href="/about" class={activeNav === "about" ? "active" : ""}>
               About
             </a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/file/d/1yXFn7QhehN6aZnXsRS8HgqvZPSNjqQn6/view" target="_blank" rel="noopener noreferrer" class={activeNav === "cv" ? "active" : ""}>
+              CV
+            </a>
+            
           </li>
           <li>
             <LinkButton
