@@ -53,7 +53,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Highlighted Papers</h2>
             <ul>
               {featuredPosts.map(({ data }) => (
                 <Card
@@ -68,7 +68,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </>
       )
     }
-
+    <!-- Recent Posts Section  -->
+    <!--
     <section id="recent-posts">
       <h2>Recent Posts</h2>
       <ul>
@@ -96,6 +97,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </LinkButton>
       </div>
     </section>
+    -->
   </main>
 
   <Footer />
