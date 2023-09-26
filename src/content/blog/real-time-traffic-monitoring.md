@@ -7,7 +7,6 @@ featured: true
 draft: false
 tags:
   - tracking
-  - computational modeling
   - neural networks
   - motorcycles
   - cameras
