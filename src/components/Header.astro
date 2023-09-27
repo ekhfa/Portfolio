@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" |"projects" | "tags" | "about" | "cv" |  "search";
+  activeNav?: "posts" | "projects" | "tags" | "about" | "cv" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -22,7 +22,7 @@ const { activeNav } = Astro.props;
           LOGO_IMAGE.enable ? (
             <img
               src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
-              alt="AstroPaper Logo"
+              alt="EkhfaHossain Logo"
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
             />
@@ -79,10 +79,14 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1yXFn7QhehN6aZnXsRS8HgqvZPSNjqQn6/view" target="_blank" rel="noopener noreferrer" class={activeNav === "cv" ? "active" : ""}>
+            <a
+              href="https://drive.google.com/file/d/1yXFn7QhehN6aZnXsRS8HgqvZPSNjqQn6/view"
+              target="_blank"
+              rel="noopener noreferrer"
+              class={activeNav === "cv" ? "active" : ""}
+            >
               CV
             </a>
-            
           </li>
           <li>
             <LinkButton

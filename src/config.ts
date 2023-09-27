@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "Sat Naing",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  title: "Ekhfa",
+  ogImage: "logo.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
@@ -38,6 +38,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on GScholar`,
     active: true,
   },
+
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
