@@ -1,6 +1,6 @@
 ---
 title: Social Media Opinion Mining Based on Bangla Public Post of Facebook
-author: Ekhfa Hosain
+author: Ekhfa Hossain
 pubDatetime: 2023-06-20T10:11:06.130Z
 postSlug: social-media-opinion-mining-based-on-bangla-public-post-of-facebook
 featured: true
