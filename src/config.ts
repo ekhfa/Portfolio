@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "Sat Naing",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Ekhfa",
+  title: "Ekhfa Hossain",
   ogImage: "logo.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -21,6 +21,18 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Mail",
+    href: "mailto:ekhfahossain@gmail.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
+    name: "GScholar",
+    href: "https://scholar.google.com/citations?user=viXKw1QAAAAJ&hl=en",
+    linkTitle: `${SITE.title} on GScholar`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/ekhfa",
     linkTitle: ` ${SITE.title} on Github`,
@@ -31,12 +43,6 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
-  },
-  {
-    name: "GScholar",
-    href: "https://scholar.google.com/citations?user=viXKw1QAAAAJ&hl=en",
-    linkTitle: `${SITE.title} on GScholar`,
-    active: true,
   },
 
   {
@@ -51,12 +57,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
-  {
-    name: "Mail",
-    href: "mailto:ekhfahossain@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
-  },
+
   {
     name: "Twitter",
     href: "https://github.com/satnaing/astro-paper",
