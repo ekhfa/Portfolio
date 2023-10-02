@@ -1,17 +1,16 @@
 import type { SocialIcons } from "../types";
 
 const socialIcons: SocialIcons = {
-  Github: `<svg
-    xmlns="http://www.w3.org/2000/svg"
-    class="icon-tabler"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  >
-    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-    <path
-      d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"
-    ></path>
+  Github: `<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  class="icon icon-tabler icon-tabler-brand-github" 
+  width="64" height="64" 
+  stroke-linecap="round" 
+  stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
   </svg>`,
+
   Facebook: `<svg
     xmlns="http://www.w3.org/2000/svg"
     class="icon-tabler"
@@ -28,9 +27,8 @@ const socialIcons: SocialIcons = {
     class="icon-tabler"
     stroke-linecap="round"
     stroke-linejoin="round"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
+    width="64" height="64" 
+   
     >
     <path d="M2 7v1l11 4 9-4V7L11 4z"></path>
     <path d="M4 11v4.267c0 1.621 4.001 3.893 9 3.734 4-.126 6.586-1.972 7-3.467.024-.089.037-.178.037-.268V11L13 14l-5-1.667v3.213l-1-.364V12l-3-1z"></path>
@@ -50,6 +48,7 @@ const socialIcons: SocialIcons = {
   LinkedIn: `<svg
     xmlns="http://www.w3.org/2000/svg"
     class="icon-tabler"
+    width="64" height="64" 
     stroke-linecap="round"
     stroke-linejoin="round"
   >
@@ -63,8 +62,10 @@ const socialIcons: SocialIcons = {
   Mail: `<svg
       xmlns="http://www.w3.org/2000/svg"
       class="icon-tabler"
+      width="64" height="64" 
       stroke-linecap="round"
       stroke-linejoin="round"
+
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
       <rect x="3" y="5" width="18" height="14" rx="2"></rect>
