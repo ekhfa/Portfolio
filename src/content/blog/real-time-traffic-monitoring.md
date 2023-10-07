@@ -18,8 +18,6 @@ tags:
   - road traffic
   - road vehicles
   - traffic engineering computing
-  - computer vision
-  - object detection
   - vehicle detection
   - vehicle tracking
   - traffic offense detection

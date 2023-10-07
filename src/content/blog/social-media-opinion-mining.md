@@ -7,13 +7,11 @@ featured: true
 draft: false
 tags:
   - sentiment analysis
-  - social networking (online)
   - hate speech
   - cyberbullying
   - classification algorithms
   - data mining
   - information technology
-  - information retrieval
   - natural language processing
   - pattern classification
   - social networking (online)
@@ -24,7 +22,6 @@ tags:
   - online harassment
   - bully detection
   - bangla language-spoken people
-  - bagla public post
 
 description: This paper addresses the issue of cyberbullying on social media aiming to ensure a safe online environment.
 ---
