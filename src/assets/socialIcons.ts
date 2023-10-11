@@ -16,6 +16,7 @@ const socialIcons: SocialIcons = {
     class="icon-tabler"
     stroke-linecap="round"
     stroke-linejoin="round"
+    width="64" height="64" 
   >
     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
     <path

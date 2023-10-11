@@ -1,0 +1,58 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import Projects from "@layouts/Projects.astro";
+import ProjectDetails from "@layouts/ProjectDetails.astro";
+import getSortedProjects from "@utils/getSortedProjects";
+import getProjectPageNumbers from "@utils/getProjectPageNumbers";
+import slugify from "@utils/projectSlugify";
+import { SITE } from "@config";
+
+export interface Props {
+  project: CollectionEntry<"project">;
+}
+
+export async function getStaticPaths() {
+  const projects = await getCollection("project", ({ data }) => !data.draft);
+
+  const projectResult = projects.map(project => ({
+    params: { slug: slugify(project.data) },
+    props: { project },
+  }));
+
+  const pagePaths = getProjectPageNumbers(projects.length).map(pageNum => ({
+    params: { slug: String(pageNum) },
+  }));
+
+  return [...projectResult, ...pagePaths];
+}
+
+const { slug } = Astro.params;
+const { project } = Astro.props;
+
+const projects = await getCollection("project");
+
+const sortedProjects = getSortedProjects(projects);
+
+const totalPages = getProjectPageNumbers(sortedProjects.length);
+
+const currentPage =
+  slug && !isNaN(Number(slug)) && totalPages.includes(Number(slug))
+    ? Number(slug)
+    : 0;
+const lastPost = currentPage * SITE.projectsPerPage;
+const startPost = lastPost - SITE.projectsPerPage;
+
+const paginatedProjects = sortedProjects.slice(startPost, lastPost);
+---
+
+{
+  project ? (
+    <ProjectDetails project={project} />
+  ) : (
+    <Projects
+      projects={paginatedProjects}
+      pageNum={currentPage}
+      totalPages={totalPages.length}
+    />
+  )
+}
