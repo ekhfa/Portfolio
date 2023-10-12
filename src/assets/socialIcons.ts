@@ -6,8 +6,10 @@ const socialIcons: SocialIcons = {
   class="icon icon-tabler icon-tabler-brand-github" 
   stroke-linecap="round" 
   stroke-linejoin="round">
+  <g transform="scale(1.1)">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
   <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
+  </g>
   </svg>`,
 
   Facebook: `<svg
@@ -29,8 +31,10 @@ const socialIcons: SocialIcons = {
     stroke-linejoin="round"
     
     >
+    <g transform="scale(1.06)">
     <path d="M2 7v1l11 4 9-4V7L11 4z"></path>
     <path d="M4 11v4.267c0 1.621 4.001 3.893 9 3.734 4-.126 6.586-1.972 7-3.467.024-.089.037-.178.037-.268V11L13 14l-5-1.667v3.213l-1-.364V12l-3-1z"></path>
+    </g>
     </svg>`,
 
   Instagram: `<svg
@@ -51,13 +55,15 @@ const socialIcons: SocialIcons = {
     stroke-linecap="round"
     stroke-linejoin="round"
   >
+  <g transform="scale(1.1)">
     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
     <rect x="4" y="4" width="16" height="16" rx="2"></rect>
     <line x1="8" y1="11" x2="8" y2="16"></line>
     <line x1="8" y1="8" x2="8" y2="8.01"></line>
     <line x1="12" y1="16" x2="12" y2="11"></line>
     <path d="M16 16v-3a2 2 0 0 0 -4 0"></path>
-  </svg>`,
+  </g>
+    </svg>`,
   Mail: `<svg
       xmlns="http://www.w3.org/2000/svg"
       class="icon-tabler"
@@ -65,9 +71,11 @@ const socialIcons: SocialIcons = {
       stroke-linejoin="round"
 
     >
+    <g transform="scale(1.1)">
       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
       <rect x="3" y="5" width="18" height="14" rx="2"></rect>
       <polyline points="3 7 12 13 21 7"></polyline>
+      </g>
     </svg>`,
 
   Twitter: `<svg

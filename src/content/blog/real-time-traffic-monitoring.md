@@ -27,7 +27,7 @@ tags:
   - deep neural network
 
 ogImage: ""
-description: Real-time traffic monitoring and traffic offense detection using YOLOv4 and OpenCV DNN
+description: This paper introduces a computer vision system with a four-module pipeline for real-time traffic offense detection using YOLOv4 and YOLOv4-tiny models.
 ---
 
 ## Table of contents
