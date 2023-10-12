@@ -45,7 +45,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links" />
             <Socials />
           </div>
         )
@@ -114,13 +113,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply pb-6 pt-2;
   }
   #hero h1 {
-    @apply my-4 inline-block text-2xl font-bold sm:my-8 sm:text-4xl;
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-4xl;
   }
   #hero p {
     @apply my-0;
   }
   .social-wrapper {
-    @apply mt-4 flex justify-center;
+    margin-top: 1rem;
   }
   .social-links {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
