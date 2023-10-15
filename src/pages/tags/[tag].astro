@@ -6,20 +6,24 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Card from "@components/Card";
 import getUniqueTags from "@utils/getUniqueTags";
+import getUniqueProjectTags from "@utils/getUniqueProjectTags";
 import getPostsByTag from "@utils/getPostsByTag";
+import getProjectsByTag from "@utils/getProjectsByTag";
 import slugify from "@utils/slugify";
 import { SITE } from "@config";
 import getSortedPosts from "@utils/getSortedPosts";
 
 export interface Props {
-  post: CollectionEntry<"blog">;
+  content: CollectionEntry<"blog" | "project">;
   tag: string;
 }
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
+  const projects = await getCollection("project");
 
   const tags = getUniqueTags(posts);
+  const projectTags = getUniqueProjectTags(projects);
 
   return tags.map(tag => {
     return {

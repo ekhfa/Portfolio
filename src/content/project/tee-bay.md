@@ -2,7 +2,7 @@
 title: Teebay
 author: Ekhfa Hossain
 pubDatetime: 2023-06-20T10:11:06.130Z
-postSlug: tee-bay
+projectSlug: tee-bay
 featured: true
 draft: false
 tags:
