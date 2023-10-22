@@ -5,9 +5,6 @@ pubDatetime: 2023-06-20T10:11:06.130Z
 projectSlug: tee-bay
 featured: true
 draft: false
-tags:
-  - e-commerce
-  - Product Transactions
 
 description: A user-friendly web platform for effortless product transactions with seamless interactions and organized product management.
 ---

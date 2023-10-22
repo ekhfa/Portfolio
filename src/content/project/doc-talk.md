@@ -5,9 +5,6 @@ pubDatetime: 2023-05-30T10:11:06.130Z
 projectSlug: doc-talk
 featured: true
 draft: false
-tags:
-  - android app
-  - doctor consultation app
 
 description: DocTalk is a versatile Android app that connects users with certified doctors, offering medical consultations, prescriptions, and medication procurement, with features tailored for pandemic and everyday healthcare needs.
 ---

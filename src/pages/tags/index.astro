@@ -6,11 +6,14 @@ import Layout from "@layouts/Layout.astro";
 import Main from "@layouts/Main.astro";
 import Tag from "@components/Tag.astro";
 import getUniqueTags from "@utils/getUniqueTags";
+import getUniqueProjectTags from "@utils/getUniqueProjectTags";
 import { SITE } from "@config";
 
 const posts = await getCollection("blog");
+const projects = await getCollection("project");
 
 let tags = getUniqueTags(posts);
+let projectTags = getUniqueProjectTags(projects);
 ---
 
 <Layout title={`Tags | ${SITE.title}`}>

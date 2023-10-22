@@ -5,10 +5,6 @@ pubDatetime: 2023-06-20T10:11:06.130Z
 projectSlug: grocery-fetch
 featured: true
 draft: false
-tags:
-  - e-commerce
-  - grocery products
-  - online shopping
 
 description: A Nextjs-based e-commerce web app for convenient grocery shopping where you can effortlessly find, add, and purchase your grocery items with convenience.
 ---
