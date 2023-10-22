@@ -13,7 +13,7 @@ export interface Props {
 
 const { project } = Astro.props;
 
-const { title, author, description, ogImage, canonicalURL, pubDatetime, tags } =
+const { title, author, description, ogImage, canonicalURL, pubDatetime } =
   project.data;
 
 const { Content } = await project.render();
