@@ -8,25 +8,30 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, description } = frontmatter;
+  const { title, description, ogImage } = frontmatter;
   return (
-    <li className="my-6">
-      <a
-        href={href}
-        className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
-      >
-        {secHeading ? (
-          <h2 className="text-lg font-medium decoration-dashed hover:underline">
-            {title}
-          </h2>
-        ) : (
-          <h3 className="text-lg font-medium decoration-dashed hover:underline">
-            {title}
-          </h3>
-        )}
+    <div className="grid grid-cols-9 gap-6 py-3">
+      <a className="col-span-4" href={href}>
+        <img alt="" decoding="async" loading="lazy" src={ogImage} />
       </a>
+      <div className="col-span-5">
+        <a
+          className="font-small inline-block text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
+          href={href}
+        >
+          {secHeading ? (
+            <h2 className="text-lg font-medium decoration-dashed hover:underline">
+              {title}
+            </h2>
+          ) : (
+            <h3 className="text-lg font-medium decoration-dashed hover:underline">
+              {title}
+            </h3>
+          )}
+        </a>
 
-      <p>{description}</p>
-    </li>
+        <p>{description}</p>
+      </div>
+    </div>
   );
 }

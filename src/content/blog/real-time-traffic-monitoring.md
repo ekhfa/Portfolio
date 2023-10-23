@@ -1,6 +1,6 @@
 ---
 author: Ekhfa Hossain
-pubDatetime: 2023-06-01T04:59:04.866Z
+pubDatetime: 2023-03-01T04:59:04.866Z
 title: Real-time traffic monitoring and traffic offense detection using YOLOv4 and OpenCV DNN
 postSlug: real-time-traffic-monitoring-and-traffic-offense-detection-using-YOLOv4-and-OpenCV-DNN
 featured: true
@@ -26,7 +26,7 @@ tags:
   - OpenCV
   - deep neural network
 
-ogImage: ""
+ogImage: src\assets\real-time-traffic.webp
 description: TENCON 2021 - 2021 IEEE Region 10 Conference (TENCON)
 ---
 

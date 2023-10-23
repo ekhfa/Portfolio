@@ -1,7 +1,7 @@
 ---
 title: Grocery Fetch
 author: Ekhfa Hossain
-pubDatetime: 2023-06-20T10:11:06.130Z
+pubDatetime: 2023-06-10T10:11:06.130Z
 projectSlug: grocery-fetch
 featured: true
 draft: false
