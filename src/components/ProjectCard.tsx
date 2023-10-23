@@ -12,7 +12,7 @@ export default function ProjectCard({
   frontmatter,
   secHeading = true,
 }: Props) {
-  const { title, pubDatetime, description } = frontmatter;
+  const { title, description } = frontmatter;
 
   return (
     <li className="my-6">
@@ -30,7 +30,7 @@ export default function ProjectCard({
           </h3>
         )}
       </a>
-      <Datetime datetime={pubDatetime} />
+
       <p>{description}</p>
     </li>
   );

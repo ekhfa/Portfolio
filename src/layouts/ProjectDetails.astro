@@ -2,7 +2,6 @@
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
-
 import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 import { projectSlugifyStr } from "@utils/projectSlugify";
@@ -44,6 +43,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   </div>
   <main id="main-content">
     <h1 class="project-title">{title}</h1>
+    <Datetime datetime={pubDatetime} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-4xl">
       <Content />
     </article>

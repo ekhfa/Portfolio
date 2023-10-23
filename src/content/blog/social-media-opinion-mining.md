@@ -23,7 +23,8 @@ tags:
   - bully detection
   - bangla language-spoken people
 
-description: This paper addresses the issue of cyberbullying on social media aiming to ensure a safe online environment.
+ogImage: src\assets\Flowchart_new.webp
+description: 2021 24th International Conference on Computer and Information Technology (ICCIT)
 ---
 
 ## Table of contents

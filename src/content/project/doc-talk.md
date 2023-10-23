@@ -1,7 +1,7 @@
 ---
 title: DocTalk
 author: Ekhfa Hossain
-pubDatetime: 2023-05-30T10:11:06.130Z
+pubDatetime: 2023-06-20T10:11:06.130Z
 projectSlug: doc-talk
 featured: true
 draft: false

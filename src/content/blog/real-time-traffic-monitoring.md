@@ -27,7 +27,7 @@ tags:
   - deep neural network
 
 ogImage: ""
-description: This paper introduces a computer vision system with a four-module pipeline for real-time traffic offense detection using YOLOv4 and YOLOv4-tiny models.
+description: TENCON 2021 - 2021 IEEE Region 10 Conference (TENCON)
 ---
 
 ## Table of contents
