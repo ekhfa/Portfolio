@@ -26,13 +26,13 @@ tags:
   - OpenCV
   - deep neural network
 
-ogImage: ../../../public/assets/real-time-traffic.webp
+ogImage: ../assets/real-time-traffic.webp
 description: TENCON 2021 - 2021 IEEE Region 10 Conference (TENCON)
 ---
 
 <!-- <p align="center"><img src="../../../public/assets/real-time-traffic.webp"/> </p> -->
 
-![Realtime](/src/assets/real-time-traffic.webp)
+<!-- ![Realtime](/src/assets/real-time-traffic.webp) -->
 
 ## Table of contents
 
