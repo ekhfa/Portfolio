@@ -26,13 +26,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Hello, I'm Ekhfa</h1>
       <p style="text-align: justify;">
         I'm a computer science graduate with a strong background in programming,
-        specializing in Machine Learning, Deep Learning, and Natural Language
-        Processing. My passion is to explore and innovate in the tech world,
-        with a track record as a Teaching Assistant and involvement in research
-        and software projects. I'm committed to lifelong learning and eager to
-        contribute to cutting-edge technology.
+        specializing in
+        <b
+          >Machine Learning, Computer Vision, Deep Learning, and Natural
+          Language Processing.</b
+        >
+        My passion is to explore and innovate in the tech world, with a track record
+        as a Teaching Assistant and involvement in research and software projects.
+        I'm committed to lifelong learning and eager to contribute to cutting-edge
+        technology.
       </p>
-      <p>
+      <br />
+      <p style="text-align: justify;">
         See
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
@@ -41,6 +46,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           About
         </LinkButton> to find out more details on my research interest and background.
       </p>
+      <br />
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
