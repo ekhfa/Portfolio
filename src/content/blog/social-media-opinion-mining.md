@@ -23,7 +23,7 @@ tags:
   - bully detection
   - bangla language-spoken people
 
-ogImage: src\assets\Flowchart_new.webp
+ogImage: ../assets/Flowchart_new.webp
 description: 2021 24th International Conference on Computer and Information Technology (ICCIT)
 ---
 
