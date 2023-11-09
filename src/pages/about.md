@@ -19,23 +19,27 @@ From AI and machine learning to software engineering, I am driven to make meanin
 
 ## Education
 
-<b>North South University</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Summer 2017 - Summer 2021</b>
-_BS in Computer Science and Engineering_  
-<b>Distinction:</b> _Magna Cum Laude_
+<p style="margin-bottom: 0;">
+  <b>North South University <span style="float:right">Summer 2017 - Summer 2021</span></b>
+</p>
+<p style="margin-bottom: 0; margin-top: 0;"><i>BS in Computer Science and Engineering</i></p>
+<p style="margin-top: 0;"><b>Distinction:</b> <i>Magna Cum Laude</i></p>
 
 ## Work
 
-<b>Trainee Software Engineer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>October 2023 - Present</b>
-Sazim Tech Ltd &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dhaka, Bangladesh
+<p style="margin-bottom: 0;">
+<b>Trainee Software Engineer
+<span style="float:right">October 2023 - Present </span></b> </p>
+<p style="margin-bottom: 0; margin-top: 0;">Sazim Tech Ltd <span style="float:right"> Dhaka, Bangladesh </span> </p>
 
-<b>Teaching Assistant</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>August 2021 – January 2022</b>
-Dept. of Electrical and Computer Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; North South University
+<p style="margin-bottom: 0;">
+<b>Teaching Assistant
+<span style="float:right">August 2021 – January 2022 </span></b> </p>
+<p style="margin-bottom: 0; margin-top: 0;">Dept. of Electrical and Computer Engineering <span style="float:right"> North South University  </span> </p>
 
 ## Research Experience
 
-<b>Directed Research</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>February 2021 – November 2021</b>
-Dept. of Electrical and Computer Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; North South University
+<p style="margin-bottom: 0;">
+<b>Directed Research
+<span style="float:right">February 2021 – November 2021 </span></b> </p>
+<p style="margin-bottom: 0; margin-top: 0;">Dept. of Electrical and Computer Engineering <span style="float:right"> North South University </span> </p>
