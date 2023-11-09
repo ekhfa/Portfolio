@@ -1,7 +1,7 @@
 ---
 title: House Price Prediction
 author: Ekhfa Hossain
-pubDatetime: 2023-06-20T10:11:06.130Z
+pubDatetime: 2023-06-22T10:11:06.150Z
 projectSlug: housing-price-prediction
 featured: true
 draft: false

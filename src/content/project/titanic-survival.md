@@ -1,7 +1,7 @@
 ---
 title: Titanic Survival Prediction
 author: Ekhfa Hossain
-pubDatetime: 2023-06-20T10:11:06.130Z
+pubDatetime: 2023-06-23T10:11:06.140Z
 projectSlug: titanic-survival-prediction
 featured: true
 draft: false

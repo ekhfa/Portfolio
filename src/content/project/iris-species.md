@@ -1,7 +1,7 @@
 ---
 title: Iris Species
 author: Ekhfa Hossain
-pubDatetime: 2023-06-20T10:11:06.130Z
+pubDatetime: 2023-06-21T10:11:06.160Z
 projectSlug: iris-species-prediction
 featured: true
 draft: false

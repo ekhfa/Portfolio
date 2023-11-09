@@ -8,7 +8,7 @@ export const SITE: Site = {
   ogImage: "logo.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
-  projectsPerPage: 3,
+  projectsPerPage: 4,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
