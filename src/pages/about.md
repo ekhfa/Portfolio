@@ -11,7 +11,7 @@ During my academic years, I delved into various facets of Computer Science, deve
 </p>
 
 <p style="text-align: justify;">
-I am deeply interested in interdisciplinary research and the practical applications of <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Natural Language Processing</b>, and <b>Deep Learning</b>. My substantial experience in interdisciplinary research is exemplified by my previous research projects, including <b>'Real-time traffic monitoring and traffic offense detection using YOLOv4 and OpenCV DNN'</b> which aimed to enhance road safety through computer vision. I also conducted <b>'Social Media Opinion Mining Based on Bangla Public Post of Facebook'</b> involving sentiment analysis on Bangla Facebook posts to ensure online safety
+I am deeply interested in <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Natural Language Processing</b>, and <b>Deep Learning</b>. My substantial experience in interdisciplinary research is exemplified by my previous research projects, including <b>'Real-time traffic monitoring and traffic offense detection using YOLOv4 and OpenCV DNN'</b> which aimed to enhance road safety through computer vision. I also conducted <b>'Social Media Opinion Mining Based on Bangla Public Post of Facebook'</b> involving sentiment analysis on Bangla Facebook posts to ensure online safety
 </p>
 <p style="text-align: justify;">
 From AI and machine learning to software engineering, I am driven to make meaningful contributions that impact society positively. This portfolio is a glimpse into my academic and professional ventures, research endeavors, and achievements.Thank you for visiting, and I look forward to connecting with you!
