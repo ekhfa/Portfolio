@@ -28,8 +28,13 @@ From AI and machine learning to software engineering, I am driven to make meanin
 ## Work
 
 <p style="margin-bottom: 0;">
+<b>Software Engineer
+<span style="float:right">April 2024 - Present </span></b> </p>
+<p style="margin-bottom: 0; margin-top: 0;">Sazim Tech Ltd <span style="float:right"> Dhaka, Bangladesh </span> </p>
+
+<p style="margin-bottom: 0;">
 <b>Trainee Software Engineer
-<span style="float:right">October 2023 - Present </span></b> </p>
+<span style="float:right">October 2023 - March 2024 </span></b> </p>
 <p style="margin-bottom: 0; margin-top: 0;">Sazim Tech Ltd <span style="float:right"> Dhaka, Bangladesh </span> </p>
 
 <p style="margin-bottom: 0;">
