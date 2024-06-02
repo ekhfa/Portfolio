@@ -40,7 +40,7 @@ From AI and machine learning to software engineering, I am driven to make meanin
 <p style="margin-bottom: 0;">
 <b>Teaching Assistant
 <span style="float:right">August 2021 – January 2022 </span></b> </p>
-<p style="margin-bottom: 0; margin-top: 0;">Dept. of Electrical and Computer Engineering <span style="float:right"> North South University  </span> </p>
+<p style="margin-bottom: 0; margin-top: 0;">Department of Mathematics & Physics <span style="float:right"> North South University  </span> </p>
 
 ## Research Experience
 
